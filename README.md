@@ -1,6 +1,6 @@
 # Example of use of [pdfreader](https://github.com/adrienjoly/npm-pdfreader)
 
-!(example cv resume parse convert pdf to text)[example.png]
+![example cv resume parse convert pdf to text](example.png)
 
 Here is the code required to convert this PDF file into text:
 
