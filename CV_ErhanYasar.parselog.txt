@@ -1,0 +1,147 @@
+$ node parse.js ../../CV_ErhanYasar.pdf
+
+printing raw items from file: ../../CV_ErhanYasar.pdf ...
+file = ../../CV_ErhanYasar.pdf
+(node:86824) DeprecationWarning: sys is deprecated. Use util instead.
+page = 1
+27.594	12	#5f5f5f	left	4	Erhan Ya
+37.428	12	#5f5f5f	left	0	ş
+38.496	12	#5f5f5f	left	0	ar
+27.594	13	#222222	left	4	Cerrahpa
+34.981	13	#222222	left	0	ş
+35.744	13	#222222	left	20	a Cad. Aksaray Mah. Kargı Sk. 9/3 34096 Fatih
+27.594	14	#222222	left	8	erhanyasar.com.tr
+27.594	15	#222222	left	8	+90 533 494 0 400
+27.594	16	#222222	left	10	mail@erhanyasar.com.tr
+27.594	17	#222222	left	3	Turkish
+27.594	18	#222222	left	5	13.07.1985
+27.594	20	#5f5f5f	left	20	Senior Frontend Developer & UI/UX Designer
+27.594	24	#222222	left	9	June 2016 - Present
+27.594	25	#222222	left	17	Frontend Developer & UI/UX Designer
+27.594	26	#222222	left	0	-
+29.484	26	#222222	left	19	Mobile Engagement of SAP Cloud System
+27.594	27	#222222	left	0	-
+29.484	27	#222222	left	32	Design & Development of SAP Web & Mobile Interface as Client’s needs
+27.594	28	#222222	left	12	Arete Consulting / Istanbul
+27.594	30	#222222	left	13	December 2013 - June 2016
+27.594	31	#222222	left	13	Frontend Developer & UI/UX
+50.145	31	#222222	left	4	 Designer 
+27.594	32	#222222	left	0	-
+29.484	32	#222222	left	27	Design & Development of Zetteknoloji.com (by Dumankaya)
+27.594	33	#222222	left	0	-
+29.484	33	#222222	left	24	Design & Development of IOT system, ZET KNX Server
+72.097	33	#222222	left	5	’s Interface 
+27.594	34	#222222	left	0	-
+29.484	34	#222222	left	33	Designing Alkon Group's (Zilli, Brioni, Frette, Stefano Ricci) Digital Media
+27.594	35	#222222	left	0	-
+29.484	35	#222222	left	28	Data Visualization with Javascript frameworks like d3 & others 
+27.594	36	#222222	left	8	erhanyasar.com.tr
+41.572	36	#222222	left	4	 / Istanbul
+27.594	38	#222222	left	13	March 2013 - December 2013
+27.594	39	#222222	left	8	Headquarters Stuff
+27.594	40	#222222	left	27	Turkish Naval Forces - North Task Group Command / Kocaeli 
+27.594	42	#222222	left	10	July 2011 - March 2013
+27.594	43	#222222	left	33	Anti-Submarine Warfare Ofﬁcer / Chief Security Ofﬁcer / Boarding Ofﬁcer
+27.594	44	#222222	left	17	Turkish Naval Forces - TCG KEMALRE
+56.924	44	#222222	left	0	İ
+57.371	44	#222222	left	8	S (F-247) / Kocaeli
+42.719	48.313	#434343	left	2	PAGE 
+46.6	48.313	#434343	left	0	
+47.398	48.313	#434343	left	11	- CURRICULUM VITAE OF 
+63.622	48.313	#434343	left	4	Erhan Ya
+69.516	48.313	#434343	left	0	ş
+70.165	48.313	#434343	left	0	ar
+46.672	48.313	#434343	left	0	1
+4.438	9.987	#5f5f5f	left	9	Personal Information 
+5.425	11.987	#7a7979	left	12	FIRST NAME / SURNAME 
+16.69	12.987	#7a7979	left	4	ADDRESS 
+20.452	13.987	#7a7979	left	2	WEB
+17.938	14.987	#7a7979	left	3	MOBILE
+18.688	15.986999999999998	#7a7979	left	3	E-MAIL
+13.508	16.987	#7a7979	left	7	NATIONALITY 
+12.383	17.987	#7a7979	left	7	DATE OF BIRTH 
+9.273	19.988	#7a7979	left	9	DESIRED POSITION 
+7.788	21.988	#5f5f5f	left	8	Work Experience 
+19.058	23.988	#7a7979	left	3	DATES 
+16.363	24.988	#7a7979	left	5	POSITION 
+10.122	25.988	#7a7979	left	9	RESPONSIBILITIES 
+6.863	27.988	#7a7979	left	11	EMPLOYER / ADDRESS 
+19.058	29.988	#7a7979	left	3	DATES 
+16.363	30.988	#7a7979	left	5	POSITION 
+10.122	31.988	#7a7979	left	8	RESPONSIBILITIES
+6.863	35.988	#7a7979	left	11	EMPLOYER / ADDRESS 
+19.058	37.988	#7a7979	left	3	DATES 
+16.363	38.988	#7a7979	left	5	POSITION 
+6.863	39.988	#7a7979	left	11	EMPLOYER / ADDRESS 
+19.058	41.988	#7a7979	left	3	DATES 
+16.363	42.988	#7a7979	left	5	POSITION 
+6.863	43.988	#7a7979	left	11	EMPLOYER / ADDRESS
+18.656	6.375	#5f5f5f	left	7	Curriculum vitae
+page = 2
+27.594	10	#222222	left	9	June 2008 - July 2011
+27.594	11	#222222	left	32	Underwater Weapons Ofﬁcer / Troop's Commander / Protocol Ofﬁcer /
+27.594	12	#222222	left	9	Secretary of Canteen
+27.594	13	#222222	left	24	Turkish Naval Forces - TCG YILDIRIM (F-243) / Kocaeli
+27.594	15	#222222	left	13	September 2007 - June 2008
+27.594	16	#222222	left	6	Intern Ofﬁcer
+27.594	17	#222222	left	28	Turkish Naval Forces - Karamürselbey Training Center / Yalova
+27.594	21	#222222	left	7	Master’s Degree
+27.594	22	#222222	left	10	Computer Art & Design
+27.594	23	#222222	left	20	Mimar Sinan Fine Arts University, 2013-2017
+27.594	25	#222222	left	15	Bachelor’s Degree & Navy Ensign
+27.594	26	#222222	left	23	Computer Engineering & Navy Ofﬁcer (Dual degree)
+27.594	27	#222222	left	12	Naval Academy, 2003-2007
+27.594	31	#222222	left	3	Turkish
+27.594	32	#222222	left	19	English (Advanced), French (Intermediate)
+27.594	34	#222222	left	0	-
+29.484	34	#222222	left	22	Ambitious, Open-minded, and Analytical thinking 
+27.594	35	#222222	left	0	-
+29.484	35	#222222	left	22	Prone to teamwork & leading up to 200+ people 
+27.594	36	#222222	left	0	-
+29.484	36	#222222	left	30	Multilingual operability within stressful & Multicultural environment 
+82.015	36	#222222	left	1	as 
+29.484	37	#222222	left	8	UN/NATO Ofﬁcer 
+27.594	39	#222222	left	0	-
+29.484	39	#222222	left	24	5 yrs. Sea Service, 14+ yrs. Armed Forces experience 
+27.594	40	#222222	left	0	-
+29.484	40	#222222	left	24	A / A1 / A2 / B / B1 / D1 / F / M class Driver's License 
+27.594	41	#222222	left	0	-
+29.484	41	#222222	left	31	Oceangoing Watchkeeping Ofﬁcer / Yatch Captain & 2* CMAS Diver 
+27.594	44	#222222	left	0	-
+29.484	44	#222222	left	7	S.Özgür Öztürk, 
+42.339	44	#222222	left	22	Marine Colonel, TCG YAVUZ (F-240) Commander 
+27.594	45	#222222	left	0	-
+29.484	45	#222222	left	5	Salih Oﬂuo
+38.111	45	#222222	left	0	ğ
+39.197	45	#222222	left	23	lu, Prof.Dr., Chief of Enformatics at Mimar Sinan GSÜ
+27.594	46	#222222	left	0	-
+29.484	46	#222222	left	22	Ergin Akın, General Manager of ZET Technology
+42.719	48.313	#434343	left	2	PAGE 
+46.6	48.313	#434343	left	0	
+47.398	48.313	#434343	left	11	- CURRICULUM VITAE OF 
+63.622	48.313	#434343	left	4	Erhan Ya
+69.516	48.313	#434343	left	0	ş
+70.165	48.313	#434343	left	0	ar
+46.672	48.313	#434343	left	0	2
+18.656	6.375	#5f5f5f	left	7	Curriculum vitae
+19.01	9.987	#7a7979	left	3	DATES 
+16.315	10.987	#7a7979	left	5	POSITION 
+6.814	12.987	#7a7979	left	11	EMPLOYER / ADDRESS
+19.01	14.987	#7a7979	left	3	DATES 
+16.315	15.986999999999998	#7a7979	left	5	POSITION 
+6.814	16.987	#7a7979	left	11	EMPLOYER / ADDRESS
+2.212	18.987	#5f5f5f	left	10	Education and Training 
+3.158	20.988	#7a7979	left	13	QUALIFICATION AWARDED 
+8.994	21.988	#7a7979	left	10	PRINCIPAL STUDIES 
+8.238	22.988	#7a7979	left	10	INSTITUTION, DATES
+3.158	24.988	#7a7979	left	13	QUALIFICATION AWARDED 
+8.994	25.988	#7a7979	left	10	PRINCIPAL STUDIES 
+8.238	26.988	#7a7979	left	10	INSTITUTION, DATES
+1.325	28.988	#5f5f5f	left	11	Skills and Competences 
+8.394	30.988	#7a7979	left	10	LANGUAGE SPOKEN 
+7.588	31.988	#7a7979	left	10	OTHER LANGUAGE(S) 
+2.048	33.988	#7a7979	left	14	SOCIAL & ORGANIZATIONAL 
+2.847	34.988	#7a7979	left	13	SKILLS AND COMPETENCES
+2.335	38.988	#7a7979	left	14	ADDITIONAL INFORMATION
+13.504	42.988	#5f5f5f	left	5	References
+done.
