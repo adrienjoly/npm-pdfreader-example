@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pdfreader": "^0.1.4"
+    "pdfreader": "^2.0.0"
   }
 }
