@@ -1,4 +1,13 @@
-# Example of use of [pdfreader](https://github.com/adrienjoly/npm-pdfreader)
+# Examples of use of [pdfreader](https://github.com/adrienjoly/npm-pdfreader)
+
+## How to install and run
+
+```sh
+git clone https://github.com/adrienjoly/npm-pdfreader-example.git
+cd npm-pdfreader-example
+npm install
+node parseItems.js
+```
 
 ## 1. Parsing lines of text
 
